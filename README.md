@@ -35,6 +35,7 @@ I'm a junior computing engineer from Brittany, France, currently working at Gene
 
 ## 👯 I’m looking to collaborate on
 - Data science open source projects
+- Machine learning / AI projects
 
 ## 🌐 Connect with me
 * [LinkedIn](https://www.linkedin.com/in/malo-le-mestre/)
