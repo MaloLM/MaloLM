@@ -5,7 +5,7 @@ I'm a junior computing engineer from Brittany, France, currently working at Gene
 
 ## 🚀 IT Skills
 * Data Science:
-    * <div> <img src="https://img.shields.io/badge/-Python-yellow?logo=python&logoColor=blue"> (large skills) </div>
+    * <div> <img src="https://img.shields.io/badge/-Python wide skills-yellow?logo=python&logoColor=blue"></div>
     * Clustering techniques (especially time-series samples)
     * SQL
 
