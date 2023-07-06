@@ -1,4 +1,4 @@
-<h1> Hi there ! <img src='./assets/hello.gif' width="40px"> <br> I am Malo Le Mestre  </h1>
+<h1> Hi there <img src='./assets/hello.gif' width="40px"> <br> I am Malo Le Mestre  </h1>
 
 ## About Me
 I'm a junior computing engineer from Brittany, France, currently working at General Electric Vernova. I'm passionate about bringing value to the world through innovative and disruptive technology. My experiences in large corporations have provided me with a broad perspective and a high level of professional awareness. I consider myself a creative force and relish the opportunity to raise the bar, especially when facing new and exciting challenges.
@@ -190,14 +190,6 @@ ___
 
 ___
 <h2>🌐 Connect with me ! </h2>
-
-<!-- <div> 
-
-   <a style="padding-right:2px" href="https://malolm.com" target="_blank">![Portefolio](https://img.shields.io/badge/Portefolio-green?style=for-the-badge&logo=vuedotjs&logoColor=white)</a>
-   <a style="padding-right:2px" href="https://www.linkedin.com/in/malo-le-mestre/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
-   <a style="padding-right:2px" href="mailto:malo.lm@icloud.com">![malo.lm@icloud.com](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white)</a>
-
-</div> -->
 
 <div> 
    <a href="https://malolm.com" target="_blank">
