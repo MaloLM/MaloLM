@@ -139,6 +139,9 @@ ___
       </a>  
       <a href="#"> 
          <img src="https://img.shields.io/badge/Assembly (soon)-purple?style=flat-square" height="30">
+      </a>
+      <a href="#"> 
+         <img src="https://img.shields.io/badge/VBA (soon)-green?logo=microsoft&style=flat-square" height="30"> 
       </a>  
    </div> 
    <div>
