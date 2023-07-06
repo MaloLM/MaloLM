@@ -120,7 +120,7 @@ ___
 
 <style>
 spacing {
-   padding: 3em;
+   padding: 0em;
 }
 
 #wide-tag {
