@@ -147,7 +147,7 @@ ___
          <img src="https://img.shields.io/badge/Flutter-blue?logo=flutter&style=flat-square" height="30"> 
       </a>  
       <a href="#">
-         <img src="https://img.shields.io/badge/Dart-white?logo=dart&style=flat-square" height="30"> 
+         <img src="https://img.shields.io/badge/Dart-white?logo=Dart&style=flat-square&logoColor=blue" height="30"> 
       </a>  
    </div> 
 </p>
