@@ -13,26 +13,26 @@ ___
 <p style="margin-top:7px">
    <div>
    &nbsp;&nbsp;&nbsp;&nbsp; 
-      <img src="https://img.shields.io/badge/-Python wide skills-blue?logo=python&logoColor=yellow&style=flat-square" height="35">
+      <img src="https://img.shields.io/badge/-Python wide skills-blue?logo=python&logoColor=yellow&style=flat-square" height="40">
     </div>
    <div>
       &nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/SQL-3C75B7?&style=flat-square" height="25">
-      <img src="https://img.shields.io/badge/-MySQL-ded?logo=mysql&logoColor=blue&style=flat-square" height="25"> 
-      <img src="https://img.shields.io/badge/PostgreSQL-375577?logo=postgresql&logoColor=white&style=flat-square" height="25"> 
+      <img src="https://img.shields.io/badge/SQL-3C75B7?&style=flat-square" height="30">
+      <img src="https://img.shields.io/badge/-MySQL-ded?logo=mysql&logoColor=blue&style=flat-square" height="30"> 
+      <img src="https://img.shields.io/badge/PostgreSQL-375577?logo=postgresql&logoColor=white&style=flat-square" height="30"> 
    </div>
    <div>
       &nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/tensorflow-orange?logo=tensorflow&logoColor=white&style=flat-square" height="25"> 
-      <img src="https://img.shields.io/badge/sklearn-blue?logo=scikitlearn&style=flat-square" height="25"> 
-      <img src="https://img.shields.io/badge/pytorch (soon)-252527?logo=pytorch&style=flat-square" height="25"> 
+      <img src="https://img.shields.io/badge/tensorflow-orange?logo=tensorflow&logoColor=white&style=flat-square" height="30"> 
+      <img src="https://img.shields.io/badge/sklearn-blue?logo=scikitlearn&style=flat-square" height="30"> 
+      <img src="https://img.shields.io/badge/pytorch (soon)-252527?logo=pytorch&style=flat-square" height="30"> 
    </div> 
    <div>
     &nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/Clustering-3C75B7?style=flat-square" height="25">
-      <img src="https://img.shields.io/badge/DTW-grey" height="25">
-      <img src="https://img.shields.io/badge/DBSCAN-grey" height="25">
-      <img src="https://img.shields.io/badge/KMEANS-grey" height="25"> 
+      <img src="https://img.shields.io/badge/Clustering-3C75B7?style=flat-square" height="30">
+      <img src="https://img.shields.io/badge/DTW-grey" height="30">
+      <img src="https://img.shields.io/badge/DBSCAN-grey" height="30">
+      <img src="https://img.shields.io/badge/KMEANS-grey" height="30"> 
    </div> 
 </p>
 
@@ -42,15 +42,15 @@ ___
 <p> 
    <div style="margin-top:7px">
       &nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/Docker-2E5A8D?logo=docker&logoColor=white&style=flat-square" height="25">
-      <img src="https://img.shields.io/badge/VirtualBox-ded?logo=virtualbox&logoColor=blue&style=flat-square"height="25"> 
-      <img src="https://img.shields.io/badge/Kubernetes (soon)-blue?logo=kubernetes&logoColor=white&style=flat-square" height="25">  
+      <img src="https://img.shields.io/badge/Docker-2E5A8D?logo=docker&logoColor=white&style=flat-square" height="30">
+      <img src="https://img.shields.io/badge/VirtualBox-ded?logo=virtualbox&logoColor=blue&style=flat-square"height="30"> 
+      <img src="https://img.shields.io/badge/Kubernetes (soon)-blue?logo=kubernetes&logoColor=white&style=flat-square" height="30">  
    </div>
    <div>
       &nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/Linux-black?logo=linux&logoColor=yellow&style=flat-square" height="25">
-      <img src="https://img.shields.io/badge/MacOS-888888?logo=macos&logoColor=white&style=flat-square" height="25">
-      <img src="https://img.shields.io/badge/GNU bash-333333?logo=gnubash&logoColor=00ff00&style=flat-square" height="25">   
+      <img src="https://img.shields.io/badge/Linux-black?logo=linux&logoColor=yellow&style=flat-square" height="30">
+      <img src="https://img.shields.io/badge/MacOS-888888?logo=macos&logoColor=white&style=flat-square" height="30">
+      <img src="https://img.shields.io/badge/GNU bash-333333?logo=gnubash&logoColor=00ff00&style=flat-square" height="30">   
    </div> 
 </p>
 
@@ -60,22 +60,22 @@ ___
 <p>
    <div style="margin-top:7px">
       &nbsp;&nbsp;&nbsp;&nbsp; 
-      <img src="https://img.shields.io/badge/Vue.js-569D74?logo=vuedotjs&logoColor=white&style=flat-square" height="25">
-      <img src="https://img.shields.io/badge/Node.js-86A94A?logo=nodedotjs&logoColor=white&style=flat-square" height="25">
+      <img src="https://img.shields.io/badge/Vue.js-569D74?logo=vuedotjs&logoColor=white&style=flat-square" height="30">
+      <img src="https://img.shields.io/badge/Node.js-86A94A?logo=nodedotjs&logoColor=white&style=flat-square" height="30">
    </div>
    <div>
       &nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white&style=flat-square" height="25">
-      <img src="https://img.shields.io/badge/CSS-ded?logo=css3&logoColor=blue&style=flat-square" height="25">
-      <img src="https://img.shields.io/badge/JavaScript-D1A241?logo=javascript&logoColor=white&style=flat-square"height="25"> 
+      <img src="https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white&style=flat-square" height="30">
+      <img src="https://img.shields.io/badge/CSS-ded?logo=css3&logoColor=blue&style=flat-square" height="30">
+      <img src="https://img.shields.io/badge/JavaScript-D1A241?logo=javascript&logoColor=white&style=flat-square"height="30"> 
    </div>
 
    <div>
       &nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/Firebase-blue?logo=firebase&style=flat-square&logoColor='987E2B'" height="25"> 
-      <img src="https://img.shields.io/badge/Hosting-grey?logo=firebase&logoColor='987E2B'" height="25">  
-      <img src="https://img.shields.io/badge/Authentication-grey?logo=firebase&logoColor='987E2B'" height="25">  
-      <img src="https://img.shields.io/badge/RealtimeDB-grey?logo=firebase&logoColor='987E2B'" height="25">    
+      <img src="https://img.shields.io/badge/Firebase-blue?logo=firebase&style=flat-square&logoColor='987E2B'" height="30"> 
+      <img src="https://img.shields.io/badge/Hosting-grey?logo=firebase&logoColor='987E2B'" height="30">  
+      <img src="https://img.shields.io/badge/Authentication-grey?logo=firebase&logoColor='987E2B'" height="30">  
+      <img src="https://img.shields.io/badge/RealtimeDB-grey?logo=firebase&logoColor='987E2B'" height="30">    
    </div> 
 </p>
 
