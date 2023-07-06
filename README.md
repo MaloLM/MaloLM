@@ -173,14 +173,14 @@ ___
 ___
 <h2>🔭 I’m currently working on </h2>
 
-\> Getting more experience in data engineering
+__Getting more experience in data engineering__
    - Data acquisition
    - Database storage
-   - Machine learning modeling (Deep learning, reinforcement learning, online solutions)
    - Supervised and unsupervised clustering
+   - Machine learning modeling (Deep learning, Reinforcement learning, Online solutions)
    - ML Ops, deploiement and pipelines of models
-   - Cloud computing
    - Engineering process diagramms
+   - Cloud computing
 handshake
 ___
 <h2>🤝 I’m looking to collaborate on </h2>
@@ -191,17 +191,30 @@ ___
 ___
 <h2>🌐 Connect with me ! </h2>
 
-<div> 
-   <!-- Let one empty line bellow, else it doesn't work -->
+<!-- <div> 
 
    <a style="padding-right:2px" href="https://malolm.com" target="_blank">![Portefolio](https://img.shields.io/badge/Portefolio-green?style=for-the-badge&logo=vuedotjs&logoColor=white)</a>
    <a style="padding-right:2px" href="https://www.linkedin.com/in/malo-le-mestre/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
    <a style="padding-right:2px" href="mailto:malo.lm@icloud.com">![malo.lm@icloud.com](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white)</a>
 
+</div> -->
+
+<div> 
+   <a href="https://malolm.com" target="_blank">
+      <img src="https://img.shields.io/badge/Portefolio-green?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Portefolio" height=40>
+   </a>
+   
+   <a href="https://www.linkedin.com/in/malo-le-mestre/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height=40>
+   </a>
+
+   <a href="mailto:malo.lm@icloud.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="E-mail" height=40>
+   </a>
 </div>
 
 
-<!-- 
+<!-- DOCS
 icons and labels: 
 - https://simpleicons.org/?q=mail 
 - https://shields.io
