@@ -119,8 +119,7 @@ ___
    <div>
       &nbsp;&nbsp;&nbsp;&nbsp;
       <a href="#">
-         <img src="https://img.shields.io/badge/Firebase-blue?
-      logo=firebase&style=flat-square&logoColor='987E2B'" height="30">
+         <img src="https://img.shields.io/badge/Firebase-blue?logo=firebase&style=flat-square&logoColor='987E2B'" height="30">
       </a>  
       <a href="#">
          <img src="https://img.shields.io/badge/Hosting-grey?logo=firebase&logoColor='987E2B'" height="30">
