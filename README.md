@@ -85,9 +85,9 @@ ___
 
 <p style="margin-top:7px">
    &nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Git-black?logo=git&style=flat-square" id="standard-tag">
-   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=flat-square" id="standard-tag">
-   <img src="https://img.shields.io/badge/GitLab-ef9b24?logo=gitlab&logoColor=white&style=flat-square" id="standard-tag"> 
+   <img src="https://img.shields.io/badge/Git-black?logo=git&style=flat-square" height="30">
+   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=flat-square" height="30">
+   <img src="https://img.shields.io/badge/GitLab-ef9b24?logo=gitlab&logoColor=white&style=flat-square" height="30"> 
 </p> 
 
 ___
