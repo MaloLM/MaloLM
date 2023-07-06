@@ -5,81 +5,87 @@ I'm a junior computing engineer from Brittany, France, currently working at Gene
 
 
 ___
-<br>
+
 <h2> 🚀 IT Skills </h2>
 
 <h3> Data Science </h3>
 <div style="margin-top:7px">
     <div>
     &nbsp;&nbsp;&nbsp;&nbsp; 
-      <img src="https://img.shields.io/badge/-Python wide skills-blue?logo=python&logoColor=yellow&style=flat-square">
+      <img src="https://img.shields.io/badge/-Python wide skills-blue?logo=python&logoColor=yellow&style=flat-square" id="wide-tag">
     </div>
     <div>
       &nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/SQL-3C75B7?&style=flat-square">
-      <img src="https://img.shields.io/badge/-MySQL-ded?logo=mysql&logoColor=blue&style=flat-square"> 
-      <img src="https://img.shields.io/badge/PostgreSQL-375577?logo=postgresql&logoColor=white&style=flat-square"> 
+      <img src="https://img.shields.io/badge/SQL-3C75B7?&style=flat-square" id="standard-tag">
+      <img src="https://img.shields.io/badge/-MySQL-ded?logo=mysql&logoColor=blue&style=flat-square" id="standard-tag"> 
+      <img src="https://img.shields.io/badge/PostgreSQL-375577?logo=postgresql&logoColor=white&style=flat-square" id="standard-tag"> 
    </div>
    <div>
       &nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/tensorflow-orange?logo=tensorflow&logoColor=white&style=flat-square"> 
-      <img src="https://img.shields.io/badge/sklearn-blue?logo=scikitlearn&style=flat-square"> 
-      <img src="https://img.shields.io/badge/pytorch (soon)-252527?logo=pytorch&style=flat-square"> 
+      <img src="https://img.shields.io/badge/tensorflow-orange?logo=tensorflow&logoColor=white&style=flat-square" id="standard-tag"> 
+      <img src="https://img.shields.io/badge/sklearn-blue?logo=scikitlearn&style=flat-square" id="standard-tag"> 
+      <img src="https://img.shields.io/badge/pytorch (soon)-252527?logo=pytorch&style=flat-square" id="standard-tag"> 
    </div> 
    <div>
     &nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/Clustering-3C75B7?style=flat-square">
-      <img src="https://img.shields.io/badge/DTW-grey?style=flat-square">
-      <img src="https://img.shields.io/badge/DBSCAN-grey?style=flat-square">
-      <img src="https://img.shields.io/badge/KMEANS-grey?style=flat-square"> 
-   </div> <br/>
+      <img src="https://img.shields.io/badge/Clustering-3C75B7?style=flat-square" id="standard-tag">
+      <img src="https://img.shields.io/badge/DTW-grey?style=flat-square" id="standard-tag">
+      <img src="https://img.shields.io/badge/DBSCAN-grey?style=flat-square" id="standard-tag">
+      <img src="https://img.shields.io/badge/KMEANS-grey?style=flat-square" id="standard-tag"> 
+   </div> 
 </div>
+
+<spacing>
 
 <h3> System </h3>
 
 <div style="margin-top:7px">
    &nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Docker-2E5A8D?logo=docker&logoColor=white&style=flat-square">
-   <img src="https://img.shields.io/badge/VirtualBox-ded?logo=virtualbox&logoColor=blue&style=flat-square"> 
-   <img src="https://img.shields.io/badge/Kubernetes (soon)-blue?logo=kubernetes&logoColor=white&style=flat-square">  
+   <img src="https://img.shields.io/badge/Docker-2E5A8D?logo=docker&logoColor=white&style=flat-square" id="standard-tag">
+   <img src="https://img.shields.io/badge/VirtualBox-ded?logo=virtualbox&logoColor=blue&style=flat-square" id="standard-tag"> 
+   <img src="https://img.shields.io/badge/Kubernetes (soon)-blue?logo=kubernetes&logoColor=white&style=flat-square" id="standard-tag">  
 </div>
 <div>
    &nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Linux-black?logo=linux&logoColor=yellow&style=flat-square">
-   <img src="https://img.shields.io/badge/MacOS-888888?logo=macos&logoColor=white&style=flat-square">
-   <img src="https://img.shields.io/badge/GNU bash-333333?logo=gnubash&logoColor=00ff00&style=flat-square">   
-</div> <br>
+   <img src="https://img.shields.io/badge/Linux-black?logo=linux&logoColor=yellow&style=flat-square" id="standard-tag">
+   <img src="https://img.shields.io/badge/MacOS-888888?logo=macos&logoColor=white&style=flat-square" id="standard-tag">
+   <img src="https://img.shields.io/badge/GNU bash-333333?logo=gnubash&logoColor=00ff00&style=flat-square" id="standard-tag">   
+</div> 
+
+<spacing>
 
 <h3> Web Development </h3>
 
 <div style="margin-top:7px">
    &nbsp;&nbsp;&nbsp;&nbsp; 
-   <img src="https://img.shields.io/badge/Vue.js-569D74?logo=vuedotjs&logoColor=white&style=flat-square">
-   <img src="https://img.shields.io/badge/Node.js-86A94A?logo=nodedotjs&logoColor=white&style=flat-square"> <br>
+   <img src="https://img.shields.io/badge/Vue.js-569D74?logo=vuedotjs&logoColor=white&style=flat-square" id="standard-tag">
+   <img src="https://img.shields.io/badge/Node.js-86A94A?logo=nodedotjs&logoColor=white&style=flat-square" id="standard-tag">
 </div>
 <div>
    &nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white&style=flat-square">
-   <img src="https://img.shields.io/badge/CSS-ded?logo=css3&logoColor=blue&style=flat-square">
-   <img src="https://img.shields.io/badge/JavaScript-D1A241?logo=javascript&logoColor=white&style=flat-square"> 
+   <img src="https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white&style=flat-square" id="standard-tag">
+   <img src="https://img.shields.io/badge/CSS-ded?logo=css3&logoColor=blue&style=flat-square" id="standard-tag">
+   <img src="https://img.shields.io/badge/JavaScript-D1A241?logo=javascript&logoColor=white&style=flat-square" id="standard-tag"> 
 </div>
 
 <div>
    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Firebase-blue?logo=firebase&style=flat-square&logoColor='987E2B'"> 
-   <img src="https://img.shields.io/badge/Hosting-grey?logo=firebase&logoColor='987E2B'"> 
-   <img src="https://img.shields.io/badge/Authentication-grey?logo=firebase&logoColor='987E2B'">  
-   <img src="https://img.shields.io/badge/RealtimeDB-grey?logo=firebase&logoColor='987E2B'">    
-</div> <br>
+    <img src="https://img.shields.io/badge/Firebase-blue?logo=firebase&style=flat-square&logoColor='987E2B'" id="standard-tag"> 
+   <img src="https://img.shields.io/badge/Hosting-grey?logo=firebase&logoColor='987E2B'" id="standard-tag">  
+   <img src="https://img.shields.io/badge/Authentication-grey?logo=firebase&logoColor='987E2B'" id="standard-tag">  
+   <img src="https://img.shields.io/badge/RealtimeDB-grey?logo=firebase&logoColor='987E2B'" id="standard-tag">    
+</div> 
+
+<spacing>
 
 <h3> Version control </h3>
 
 <div style="margin-top:7px">
    &nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Git-black?logo=git&style=flat-square">
-   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=flat-square">
-   <img src="https://img.shields.io/badge/GitLab-ef9b24?logo=gitlab&logoColor=white&style=flat-square"> 
-</div> <br>
+   <img src="https://img.shields.io/badge/Git-black?logo=git&style=flat-square" id="standard-tag">
+   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=flat-square" id="standard-tag">
+   <img src="https://img.shields.io/badge/GitLab-ef9b24?logo=gitlab&logoColor=white&style=flat-square" id="standard-tag"> 
+</div> <spacing>
 
 ___
 <h2>🔭 I’m currently working on </h2>
@@ -93,12 +99,11 @@ ___
    - Cloud computing
    - Engineering process diagramms
 handshake
-
-## 🤝 I’m looking to collaborate on
+___
+<h2>🤝 I’m looking to collaborate on </h2>
 \> Data science open source projects <br>
 \> Machine learning / AI projects
 
-<br>
 
 ___
 <h2>🌐 Connect with me ! </h2>
@@ -112,6 +117,21 @@ ___
 
 </div>
 
+
+<style>
+spacing {
+   padding: 3em;
+}
+
+#wide-tag {
+    height: 35px;
+  }
+
+#standard-tag {
+    height: 29px;
+  }  
+ 
+</style>
 
 <!-- 
 _This README is a work in progress. Stay tuned for more updates!_
