@@ -20,6 +20,7 @@ ___
       <img src="https://img.shields.io/badge/SQL-3C75B7?&style=flat-square" height="30">
       <img src="https://img.shields.io/badge/-MySQL-ded?logo=mysql&logoColor=blue&style=flat-square" height="30"> 
       <img src="https://img.shields.io/badge/PostgreSQL-375577?logo=postgresql&logoColor=white&style=flat-square" height="30"> 
+      <img src="https://img.shields.io/badge/Redis-red?logo=redis&logoColor=white&style=flat-square" height="30"> 
    </div>
    <div>
       &nbsp;&nbsp;&nbsp;&nbsp;
@@ -36,9 +37,8 @@ ___
    </div> 
 </p>
 
-
-
 <h3> System </h3>
+
 <p> 
    <div style="margin-top:7px">
       &nbsp;&nbsp;&nbsp;&nbsp;
@@ -54,8 +54,7 @@ ___
    </div> 
 </p>
 
-
-<h3> Web Development </h3>
+<h3> Software development </h3>
 
 <p>
    <div style="margin-top:7px">
@@ -77,13 +76,22 @@ ___
       <img src="https://img.shields.io/badge/Authentication-grey?logo=firebase&logoColor='987E2B'" height="30">  
       <img src="https://img.shields.io/badge/RealtimeDB-grey?logo=firebase&logoColor='987E2B'" height="30">    
    </div> 
+
+   <div>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/C++ (soon)-black?logo=cplusplus&style=flat-square&logoColor='987E2B'" height="30"> 
+      <img src="https://img.shields.io/badge/Assembly (soon)-purple?style=flat-square" height="30">
+   </div> 
+   <div>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Flutter-blue?logo=flutter&style=flat-square" height="30"> 
+      <img src="https://img.shields.io/badge/Dart-white?logo=dart&style=flat-square" height="30"> 
+   </div> 
 </p>
-
-
 
 <h3> Version control </h3>
 
-<p style="margin-top:7px">
+<p style="margin-top:700px">
    &nbsp;&nbsp;&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Git-black?logo=git&style=flat-square" height="30">
    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=flat-square" height="30">
@@ -94,11 +102,11 @@ ___
 <h2>🔭 I’m currently working on </h2>
 
 \> Getting more experience in data engineering
-   - data acquisition
-   - database storage
+   - Data acquisition
+   - Database storage
    - Machine learning modeling (Deep learning, reinforcement learning, online solutions)
    - Supervised and unsupervised clustering
-   - ML Ops, deploiement and pipelines
+   - ML Ops, deploiement and pipelines of models
    - Cloud computing
    - Engineering process diagramms
 handshake
@@ -121,11 +129,8 @@ ___
 </div>
 
 
-
 <!-- 
-_This README is a work in progress. Stay tuned for more updates!_
-
-icons: 
+icons and labels: 
 - https://simpleicons.org/?q=mail 
 - https://shields.io
 -->
