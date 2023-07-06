@@ -10,11 +10,13 @@ ___
 
 <h3> Data Science </h3>
 
-<p style="margin-top:7px">
+<p>
    <div>
    &nbsp;&nbsp;&nbsp;&nbsp; 
+   <a href="#">
       <img src="https://img.shields.io/badge/-Python wide skills-blue?logo=python&logoColor=yellow&style=flat-square" height="40">
-    </div>
+   </a>
+   </div>
    <div>
       &nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/SQL-3C75B7?&style=flat-square" height="30">
@@ -40,7 +42,7 @@ ___
 <h3> System </h3>
 
 <p> 
-   <div style="margin-top:7px">
+   <div >
       &nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/Docker-2E5A8D?logo=docker&logoColor=white&style=flat-square" height="30">
       <img src="https://img.shields.io/badge/VirtualBox-ded?logo=virtualbox&logoColor=blue&style=flat-square"height="30"> 
@@ -57,7 +59,7 @@ ___
 <h3> Software development </h3>
 
 <p>
-   <div style="margin-top:7px">
+   <div>
       &nbsp;&nbsp;&nbsp;&nbsp; 
       <img src="https://img.shields.io/badge/Vue.js-569D74?logo=vuedotjs&logoColor=white&style=flat-square" height="30">
       <img src="https://img.shields.io/badge/Node.js-86A94A?logo=nodedotjs&logoColor=white&style=flat-square" height="30">
@@ -91,7 +93,7 @@ ___
 
 <h3> Version control </h3>
 
-<p style="margin-top:700px">
+<p>
    &nbsp;&nbsp;&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Git-black?logo=git&style=flat-square" height="30">
    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=flat-square" height="30">
@@ -119,7 +121,7 @@ ___
 ___
 <h2>🌐 Connect with me ! </h2>
 
-<div style="margin-top:7px"> 
+<div> 
    <!-- Let one empty line bellow, else it doesn't work -->
 
    <a style="padding-right:2px" href="https://malolm.com" target="_blank">![Portefolio](https://img.shields.io/badge/Portefolio-green?style=for-the-badge&logo=vuedotjs&logoColor=white)</a>
