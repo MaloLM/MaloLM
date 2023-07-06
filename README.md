@@ -111,8 +111,8 @@ ___
 <div style="margin-top:7px"> 
 <!-- Let one empty line bellow, else it doesn't work -->
 
-   <a style="padding-right:2px" href="https://malolm.com">![Portefolio](https://img.shields.io/badge/Portefolio-green?style=for-the-badge&logo=vuedotjs&logoColor=white)</a>
-   <a style="padding-right:2px" href="https://www.linkedin.com/in/malo-le-mestre/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
+   <a style="padding-right:2px" href="https://malolm.com" target="_blank">![Portefolio](https://img.shields.io/badge/Portefolio-green?style=for-the-badge&logo=vuedotjs&logoColor=white)</a>
+   <a style="padding-right:2px" href="https://www.linkedin.com/in/malo-le-mestre/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
    <a style="padding-right:2px" href="mailto:malo.lm@icloud.com">![malo.lm@icloud.com](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white)</a>
 
 </div>
@@ -124,11 +124,13 @@ spacing {
 }
 
 #wide-tag {
-    height: 35px;
+    height: 350px;
+    pointer-events: none;
   }
 
 #standard-tag {
     height: 29px;
+    pointer-events: none;
   }  
  
 </style>
