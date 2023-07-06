@@ -184,9 +184,9 @@ ___
 handshake
 ___
 <h2>🤝 I’m looking to collaborate on </h2>
+
 \> Data science open source projects <br>
 \> Machine learning / AI projects
-
 
 ___
 <h2>🌐 Connect with me ! </h2>
