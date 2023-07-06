@@ -13,16 +13,18 @@ ___
 <p>
    <div>
    &nbsp;&nbsp;&nbsp;&nbsp; 
-   <a href="#">
-      <img src="https://img.shields.io/badge/-Python wide skills-blue?logo=python&logoColor=yellow&style=flat-square" height="40">
-   </a>
+      <a href="#">
+         <img src="https://img.shields.io/badge/-Python wide skills-blue?logo=python&logoColor=yellow&style=flat-square" height="40">
+      </a>
    </div>
    <div>
-      &nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/SQL-3C75B7?&style=flat-square" height="30">
-      <img src="https://img.shields.io/badge/-MySQL-ded?logo=mysql&logoColor=blue&style=flat-square" height="30"> 
-      <img src="https://img.shields.io/badge/PostgreSQL-375577?logo=postgresql&logoColor=white&style=flat-square" height="30"> 
-      <img src="https://img.shields.io/badge/Redis-red?logo=redis&logoColor=white&style=flat-square" height="30"> 
+      <a href="#">
+         &nbsp;&nbsp;&nbsp;&nbsp;
+         <img src="https://img.shields.io/badge/SQL-3C75B7?&style=flat-square" height="30">
+         <img src="https://img.shields.io/badge/-MySQL-ded?logo=mysql&logoColor=blue&style=flat-square" height="30"> 
+         <img src="https://img.shields.io/badge/PostgreSQL-375577?logo=postgresql&logoColor=white&style=flat-square" height="30"> 
+         <img src="https://img.shields.io/badge/Redis-red?logo=redis&logoColor=white&style=flat-square" height="30"> 
+      </a>
    </div>
    <div>
       &nbsp;&nbsp;&nbsp;&nbsp;
