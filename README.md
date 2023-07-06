@@ -85,7 +85,9 @@ ___
    <img src="https://img.shields.io/badge/Git-black?logo=git&style=flat-square" id="standard-tag">
    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=flat-square" id="standard-tag">
    <img src="https://img.shields.io/badge/GitLab-ef9b24?logo=gitlab&logoColor=white&style=flat-square" id="standard-tag"> 
-</div> <spacing>
+</div> 
+
+<div style="padding: 10em;"></div>
 
 ___
 <h2>🔭 I’m currently working on </h2>
