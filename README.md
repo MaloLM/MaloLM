@@ -1,7 +1,7 @@
 <h1> Hi there <img src='./assets/hello.gif' width="40px"> <br> I am Malo Le Mestre  </h1>
 
 ## About Me
-<h3> I'm a junior computing engineer from Brittany, France, currently working at General Electric Vernova. I'm passionate about bringing value to the world through innovative and disruptive technology. My experiences in large corporations have provided me with a broad perspective and a high level of professional awareness. I consider myself a creative force and relish the opportunity to raise the bar, especially when facing new and exciting challenges. </h3>
+<h3> I'm a junior computing engineer from Brittany, France. I'm passionate about bringing value to the world through innovative and disruptive technology. My experiences in large corporations have provided me with a broad perspective and a high level of professional awareness. I consider myself a creative force and relish the opportunity to raise the bar, especially when facing new and exciting challenges. </h3>
 
 
 ___
