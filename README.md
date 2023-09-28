@@ -102,6 +102,9 @@ ___
       <a href="#">
          <img src="https://img.shields.io/badge/Node.js-86A94A?logo=nodedotjs&logoColor=white&style=flat-square" height="30">
       </a>  
+      <a href="#">
+         <img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white&style=flat-square" height="30">
+      </a>  
    </div>
    <div>
       &nbsp;&nbsp;&nbsp;&nbsp;
@@ -137,9 +140,6 @@ ___
       <a href="#">
          <img src="https://img.shields.io/badge/C++ (soon)-black?logo=cplusplus&style=flat-square&logoColor='987E2B'" height="30">
       </a>  
-      <a href="#"> 
-         <img src="https://img.shields.io/badge/Assembly (soon)-purple?style=flat-square" height="30">
-      </a>
       <a href="#"> 
          <img src="https://img.shields.io/badge/VBA (soon)-green?logo=microsoft&style=flat-square" height="30"> 
       </a>  
