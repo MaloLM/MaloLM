@@ -41,9 +41,9 @@ ___
       <a href="#">
       <img src="https://img.shields.io/badge/sklearn-blue?logo=scikitlearn&style=flat-square" height="30"> 
       </a>
-      <a href="#">
+      <!--<a href="#">
       <img src="https://img.shields.io/badge/pytorch (soon)-252527?logo=pytorch&style=flat-square" height="30">
-      </a>
+      </a>-->
    </div> 
    <div>
     &nbsp;&nbsp;&nbsp;&nbsp;
@@ -73,9 +73,9 @@ ___
       <a href="#">
          <img src="https://img.shields.io/badge/VirtualBox-ded?logo=virtualbox&logoColor=blue&style=flat-square"height="30">
       </a>
-      <a href="#">
+      <!-- <a href="#">
          <img src="https://img.shields.io/badge/Kubernetes (soon)-blue?logo=kubernetes&logoColor=white&style=flat-square" height="30">
-      </a>  
+      </a> --> 
    </div>
    <div>
       &nbsp;&nbsp;&nbsp;&nbsp;
@@ -137,12 +137,12 @@ ___
 
    <div>
       &nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="#">
+      <!-- <a href="#">
          <img src="https://img.shields.io/badge/C++ (soon)-black?logo=cplusplus&style=flat-square&logoColor='987E2B'" height="30">
-      </a>  
-      <a href="#"> 
+      </a> --> 
+      <!-- <a href="#"> 
          <img src="https://img.shields.io/badge/VBA (soon)-green?logo=microsoft&style=flat-square" height="30"> 
-      </a>  
+      </a> -->
    </div> 
    <div>
       &nbsp;&nbsp;&nbsp;&nbsp;
