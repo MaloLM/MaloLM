@@ -14,7 +14,7 @@ ___
    <div>
    &nbsp;&nbsp;&nbsp;&nbsp; 
       <a href="#">
-         <img src="https://img.shields.io/badge/-Python wide skills-blue?logo=python&logoColor=yellow&style=flat-square" height="40">
+         <img src="https://img.shields.io/badge/- Wide Python skills-blue?logo=python&logoColor=yellow&style=flat-square" height="40">
       </a>
    </div>
    <div>
