@@ -3,6 +3,7 @@
 ## About Me
 <p style="font-size: 1.5em;"> I'm a junior computing engineer from Brittany, France. I'm passionate about bringing value to the world through innovative and disruptive technology. My experiences in large corporations have provided me with a broad perspective and a high level of professional awareness. I consider myself a creative force and relish the opportunity to raise the bar, especially when facing new and exciting challenges. </p>
 
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=MaloLM.MaloLM)](https://github.com/MaloLM) [![GitHub followers](https://img.shields.io/github/followers/MaloLM.svg?style=social&label=Follow)](https://github.com/MaloLM?tab=followers)
 
 ___
 
@@ -67,9 +68,9 @@ ___
 
    <div>
       &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/JavaScript-D1A241?logo=javascript&logoColor=white&style=flat-square" height="30">
       <img src="https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white&style=flat-square" height="30">
       <img src="https://img.shields.io/badge/CSS-ded?logo=css3&logoColor=blue&style=flat-square" height="30">
-      <img src="https://img.shields.io/badge/JavaScript-D1A241?logo=javascript&logoColor=white&style=flat-square" height="30">
    </div>
 
    <div>
