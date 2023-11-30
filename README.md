@@ -69,7 +69,7 @@ ___
       &nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white&style=flat-square" height="30">
       <img src="https://img.shields.io/badge/CSS-ded?logo=css3&logoColor=blue&style=flat-square" height="30">
-      <img src="https://img.shields.io/badge/JavaScript-D1A241?logo=javascript&logoColor=white&style=flat-square"height="30">
+      <img src="https://img.shields.io/badge/JavaScript-D1A241?logo=javascript&logoColor=white&style=flat-square" height="30">
    </div>
 
    <div>
