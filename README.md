@@ -64,7 +64,7 @@ ___
       <img src="https://img.shields.io/badge/Vue.js-569D74?logo=vuedotjs&logoColor=white&style=flat-square" height="30">
       <img src="https://img.shields.io/badge/Node.js-86A94A?logo=nodedotjs&logoColor=white&style=flat-square" height="30">
       <img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white&style=flat-square" height="30">
-   </div
+   </div>
 
    <div>
       &nbsp;&nbsp;&nbsp;&nbsp;
