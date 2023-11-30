@@ -68,9 +68,9 @@ ___
 
    <div>
       &nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/JavaScript-D1A241?logo=javascript&logoColor=white&style=flat-square" height="30">
       <img src="https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white&style=flat-square" height="30">
       <img src="https://img.shields.io/badge/CSS-ded?logo=css3&logoColor=blue&style=flat-square" height="30">
+      <img src="https://img.shields.io/badge/JavaScript-D1A241?logo=javascript&logoColor=white&style=flat-square" height="30">
    </div>
 
    <div>
@@ -82,16 +82,18 @@ ___
    </div> 
 
    <div>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Flutter-blue?logo=flutter&style=flat-square" height="30"> 
+      <img src="https://img.shields.io/badge/Dart-white?logo=Dart&style=flat-square&logoColor=blue" height="30"> 
+   </div> 
+
+   <div>
       &nbsp;&nbsp;&nbsp;&nbsp;  
       <img src="https://img.shields.io/badge/C++ (soon)-black?logo=cplusplus&style=flat-square&logoColor='987E2B'" height="30">
       <img src="https://img.shields.io/badge/VBA (soon)-green?logo=microsoft&style=flat-square" height="30"> 
    </div> 
 
-   <div>
-      &nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/Flutter-blue?logo=flutter&style=flat-square" height="30"> 
-      <img src="https://img.shields.io/badge/Dart-white?logo=Dart&style=flat-square&logoColor=blue" height="30"> 
-   </div> 
+
 </p>
 
 <h3> Version control </h3>
