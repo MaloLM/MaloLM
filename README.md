@@ -5,7 +5,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/MaloLM.svg?style=social&label=Follow)](https://github.com/MaloLM?tab=followers)
 
-___
+<br>
 
 <h2> 🚀 IT Skills </h2>
 
@@ -106,7 +106,7 @@ ___
    <img src="https://img.shields.io/badge/GitLab-ef9b24?logo=gitlab&logoColor=white&style=flat-square" height="30"> 
 </p> 
 
-___
+<br>
 <h2>🔭 I’m currently working on </h2>
 
 __Getting more experience in data engineering__
@@ -118,13 +118,13 @@ __Getting more experience in data engineering__
    - Engineering process diagramms
    - Cloud computing
 handshake
-___
+<br>
 <h2>🤝 I’m looking to collaborate on </h2>
 
 -  Data science open source projects <br>
 -  Machine learning / AI projects
 
-___
+<br> 
 <h2>🌐 Connect with me ! </h2>
 
 <div> 
