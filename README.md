@@ -27,7 +27,7 @@ ___
       &nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/tensorflow-orange?logo=tensorflow&logoColor=white&style=flat-square" height="30">
       <img src="https://img.shields.io/badge/sklearn-blue?logo=scikitlearn&style=flat-square" height="30"> 
-      <img src="https://img.shields.io/badge/pytorch (soon)-252527?logo=pytorch&style=flat-square" height="30">
+      <!-- <img src="https://img.shields.io/badge/pytorch (soon)-252527?logo=pytorch&style=flat-square" height="30"> -->
    </div> 
    <div>
     &nbsp;&nbsp;&nbsp;&nbsp;
