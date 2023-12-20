@@ -27,7 +27,6 @@
       &nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/tensorflow-orange?logo=tensorflow&logoColor=white&style=flat-square" height="30">
       <img src="https://img.shields.io/badge/sklearn-blue?logo=scikitlearn&style=flat-square" height="30"> 
-      <!-- <img src="https://img.shields.io/badge/pytorch (soon)-252527?logo=pytorch&style=flat-square" height="30"> -->
    </div> 
    <div>
     &nbsp;&nbsp;&nbsp;&nbsp;
@@ -35,6 +34,13 @@
       <img src="https://img.shields.io/badge/DTW-grey" height="30">
       <img src="https://img.shields.io/badge/DBSCAN-grey" height="30">
       <img src="https://img.shields.io/badge/KMEANS-grey" height="30"> 
+   </div> 
+   <div>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Optimization-3C75B7?style=flat-square" height="30">
+      <img src="https://img.shields.io/badge/Biomimicry-grey" height="30"> 
+      <img src="https://img.shields.io/badge/Deterministic-grey" height="30"> 
+      <img src="https://img.shields.io/badge/Stochastic-grey" height="30"> 
    </div> 
 </p>
 
