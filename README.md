@@ -37,7 +37,7 @@
    </div> 
    <div>
     &nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/Optimization-3C75B7?style=flat-square" height="30">
+      <img src="https://img.shields.io/badge/Optimization-375577?style=flat-square" height="30">
       <img src="https://img.shields.io/badge/Biomimicry-grey" height="30"> 
       <img src="https://img.shields.io/badge/Deterministic-grey" height="30"> 
       <img src="https://img.shields.io/badge/Stochastic-grey" height="30"> 
