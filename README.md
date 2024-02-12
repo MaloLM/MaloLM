@@ -2,7 +2,12 @@
 
 ## About Me
 
-<p style="font-size: 1.5em;"> I'm a junior computing engineer from Brittany, France. I'm passionate about bringing value to the world through innovative and disruptive technology. My experiences in large corporations have provided me with a broad perspective and a high level of professional awareness. I consider myself a creative force and relish the opportunity to raise the bar, especially when facing new and exciting challenges. </p>
+<p style="font-size: 1.5em;"> I'm a junior computing engineer from Brittany,
+France. I'm motivated by bringing value to the world
+through innovative and disruptive technology. I
+consider myself a creative force and relish the
+opportunity to raise the bar, especially when facing
+new and exciting challenges.</p>
 
 [![GitHub followers](https://img.shields.io/github/followers/MaloLM.svg?style=social&label=Follow)](https://github.com/MaloLM?tab=followers)
 
