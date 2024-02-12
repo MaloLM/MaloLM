@@ -1,6 +1,7 @@
 <h1> Hi there <img src='./assets/hello.gif' width="40px"> <br> I am Malo Le Mestre  </h1>
 
 ## About Me
+
 <p style="font-size: 1.5em;"> I'm a junior computing engineer from Brittany, France. I'm passionate about bringing value to the world through innovative and disruptive technology. My experiences in large corporations have provided me with a broad perspective and a high level of professional awareness. I consider myself a creative force and relish the opportunity to raise the bar, especially when facing new and exciting challenges. </p>
 
 [![GitHub followers](https://img.shields.io/github/followers/MaloLM.svg?style=social&label=Follow)](https://github.com/MaloLM?tab=followers)
@@ -9,7 +10,7 @@
 
 <h2> 🚀 IT Skills </h2>
 
-<h3> Data Science </h3>
+<h3> Data Science / Machine learning </h3>
 
 <p>
    <div>
@@ -30,7 +31,14 @@
    </div> 
    <div>
     &nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/Clustering-3C75B7?style=flat-square" height="30">
+      <img src="https://img.shields.io/badge/Machine Learning-375577?style=flat-square" height="30">
+      <img src="https://img.shields.io/badge/RL-grey" height="30"> 
+      <img src="https://img.shields.io/badge/RNN-grey" height="30"> 
+      <img src="https://img.shields.io/badge/NLP-grey" height="30"> 
+   </div> 
+   <div>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Clustering-375577?style=flat-square" height="30">
       <img src="https://img.shields.io/badge/DTW-grey" height="30">
       <img src="https://img.shields.io/badge/DBSCAN-grey" height="30">
       <img src="https://img.shields.io/badge/KMEANS-grey" height="30"> 
@@ -41,7 +49,7 @@
       <img src="https://img.shields.io/badge/Biomimicry-grey" height="30"> 
       <img src="https://img.shields.io/badge/Deterministic-grey" height="30"> 
       <img src="https://img.shields.io/badge/Stochastic-grey" height="30"> 
-   </div> 
+   </div>
 </p>
 
 <h3> System </h3>
@@ -51,7 +59,6 @@
       &nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/Docker-2E5A8D?logo=docker&logoColor=white&style=flat-square" height="30">
       <img src="https://img.shields.io/badge/VirtualBox-ded?logo=virtualbox&logoColor=blue&style=flat-square"height="30">
-      <img src="https://img.shields.io/badge/Kubernetes (soon)-blue?logo=kubernetes&logoColor=white&style=flat-square" height="30">
    </div>
 
    <div>
@@ -86,20 +93,18 @@
       <img src="https://img.shields.io/badge/Hosting-grey?logo=firebase&logoColor='987E2B'" height="30">
       <img src="https://img.shields.io/badge/Authentication-grey?logo=firebase&logoColor='987E2B'" height="30">
       <img src="https://img.shields.io/badge/RealtimeDB-grey?logo=firebase&logoColor='987E2B'" height="30">
-   </div> 
+   </div>
 
    <div>
       &nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/Flutter-blue?logo=flutter&style=flat-square" height="30"> 
       <img src="https://img.shields.io/badge/Dart-white?logo=Dart&style=flat-square&logoColor=blue" height="30"> 
-   </div> 
+   </div>
 
    <div>
       &nbsp;&nbsp;&nbsp;&nbsp;  
-      <img src="https://img.shields.io/badge/C++ (soon)-black?logo=cplusplus&style=flat-square&logoColor='987E2B'" height="30">
-      <img src="https://img.shields.io/badge/VBA (soon)-green?logo=microsoft&style=flat-square" height="30"> 
-   </div> 
-
+      
+   </div>
 
 </p>
 
@@ -110,25 +115,23 @@
    <img src="https://img.shields.io/badge/Git-grey?logo=git&style=flat-square" height="30">
    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=flat-square" height="30">
    <img src="https://img.shields.io/badge/GitLab-ef9b24?logo=gitlab&logoColor=white&style=flat-square" height="30"> 
-</p> 
+</p>
 
 <br>
-<h2>🔭 I’m currently working on </h2>
 
-__Getting more experience in data engineering__
-   - Data acquisition
-   - Database storage
-   - Supervised and unsupervised clustering
-   - Machine learning modeling (Deep learning, Reinforcement learning, Online solutions)
-   - ML Ops, deploiement and pipelines of models
-   - Engineering process diagramms
-   - Cloud computing
-handshake
-<br>
-<h2>🤝 I’m looking to collaborate on </h2>
+<h2>🤝 I’m looking to collaborate and grow on </h2>
 
--  Data science open source projects <br>
--  Machine learning / AI projects
+<img src="https://img.shields.io/badge/Computer vision-blue" height="30">
+<img src="https://img.shields.io/badge/Database storage-blue" height="30">
+<img src="https://img.shields.io/badge/Supervised and unsupervised clustering-blue" height="30">
+
+<img src="https://img.shields.io/badge/ML Ops-blue" height="30">
+<img src="https://img.shields.io/badge/Engineering project management-blue" height="30">
+<img src="https://img.shields.io/badge/Cloud computing-blue" height="30">
+<img src="https://img.shields.io/badge/Machine learning modeling (Deep learning, Reinforcement learning)-blue" height="30">
+
+<img src="https://img.shields.io/badge/C++ -black?logo=cplusplus&style=flat-square&logoColor='987E2B'" height="30">
+<img src="https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes&logoColor=white&style=flat-square" height="30">
 
 <br> 
 <h2>🌐 Connect with me ! </h2>
@@ -147,9 +150,8 @@ handshake
    </a>
 </div>
 
-
 <!-- DOCS
-icons and labels: 
-- https://simpleicons.org/?q=mail 
+icons and labels:
+- https://simpleicons.org/?q=mail
 - https://shields.io
 -->
