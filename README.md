@@ -126,15 +126,13 @@ new and exciting challenges.</p>
 
 <h2>🤝 I’m looking to collaborate and grow on </h2>
 
+<img src="https://img.shields.io/badge/Machine learning modeling (Deep learning, Reinforcement learning)-blue" height="30">
 <img src="https://img.shields.io/badge/Computer vision-blue" height="30">
-<img src="https://img.shields.io/badge/Database storage-blue" height="30">
 <img src="https://img.shields.io/badge/Supervised and unsupervised clustering-blue" height="30">
-
 <img src="https://img.shields.io/badge/ML Ops-blue" height="30">
 <img src="https://img.shields.io/badge/Engineering project management-blue" height="30">
 <img src="https://img.shields.io/badge/Cloud computing-blue" height="30">
-<img src="https://img.shields.io/badge/Machine learning modeling (Deep learning, Reinforcement learning)-blue" height="30">
-
+<img src="https://img.shields.io/badge/Large database storage-blue" height="30">
 <img src="https://img.shields.io/badge/C++ -black?logo=cplusplus&style=flat-square&logoColor='987E2B'" height="30">
 <img src="https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes&logoColor=white&style=flat-square" height="30">
 
