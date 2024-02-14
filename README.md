@@ -133,8 +133,8 @@ new and exciting challenges.</p>
 <img src="https://img.shields.io/badge/Engineering project management-blue" height="30">
 <img src="https://img.shields.io/badge/Cloud computing-blue" height="30">
 <img src="https://img.shields.io/badge/Large database storage-blue" height="30">
-<img src="https://img.shields.io/badge/C++ -black?logo=cplusplus&style=flat-square&logoColor='987E2B'" height="30">
 <img src="https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes&logoColor=white&style=flat-square" height="30">
+<img src="https://img.shields.io/badge/C++ -black?logo=cplusplus&style=flat-square&logoColor='987E2B'" height="30">
 
 <br> 
 <h2>🌐 Connect with me ! </h2>
