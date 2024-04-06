@@ -37,7 +37,7 @@ new and exciting challenges.</p>
    <div>
     &nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/Machine Learning-375577?style=flat-square" height="30">
-      <img src="https://img.shields.io/badge/RL-grey" height="30"> 
+      <img src="https://img.shields.io/badge/RL-grey" height="30">
       <img src="https://img.shields.io/badge/RNN-grey" height="30"> 
       <img src="https://img.shields.io/badge/NLP-grey" height="30"> 
    </div> 
