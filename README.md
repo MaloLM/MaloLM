@@ -37,7 +37,8 @@ new and exciting challenges.</p>
    <div>
     &nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/Machine Learning-375577?style=flat-square" height="30">
-      <img src="https://img.shields.io/badge/RL-grey" height="30"> 
+      <img src="https://img.shields.io/badge/RL-grey" height="30">
+      <img src="https://img.shields.io/badge/CNN-grey" height="30"> 
       <img src="https://img.shields.io/badge/RNN-grey" height="30"> 
       <img src="https://img.shields.io/badge/NLP-grey" height="30"> 
    </div> 
@@ -47,6 +48,8 @@ new and exciting challenges.</p>
       <img src="https://img.shields.io/badge/DTW-grey" height="30">
       <img src="https://img.shields.io/badge/DBSCAN-grey" height="30">
       <img src="https://img.shields.io/badge/KMEANS-grey" height="30"> 
+      <img src="https://img.shields.io/badge/KNN-grey" height="30">
+      <img src="https://img.shields.io/badge/...-grey" height="30">
    </div> 
    <div>
     &nbsp;&nbsp;&nbsp;&nbsp;
@@ -54,6 +57,7 @@ new and exciting challenges.</p>
       <img src="https://img.shields.io/badge/Biomimicry-grey" height="30"> 
       <img src="https://img.shields.io/badge/Deterministic-grey" height="30"> 
       <img src="https://img.shields.io/badge/Stochastic-grey" height="30"> 
+      <img src="https://img.shields.io/badge/...-grey" height="30">
    </div>
 </p>
 
@@ -139,7 +143,13 @@ new and exciting challenges.</p>
    <img src="https://img.shields.io/badge/Kubernetes-444444?logo=kubernetes&logoColor=white&style=flat-square" height="30">
    <img src="https://img.shields.io/badge/C++ -444444?logo=cplusplus&style=flat-square&logoColor='987E2B'" height="30">
    <img src="https://img.shields.io/badge/Rust -444444?logo=rust&style=flat-square&logoColor='987E2B'" height="30">
-   <img src="https://img.shields.io/badge/Tensorflow Transform -444444?logo=tensorflow&style=flat-square&logoColor='987E2B'" height="30">
+   <img src="https://img.shields.io/badge/Airflow -444444?logo=apacheairflow&style=flat-square&logoColor='987E2B'" height="30">
+   <img src="https://img.shields.io/badge/Hadoop -444444?logo=apachehadoop&style=flat-square&logoColor='987E2B'" height="30">
+   <img src="https://img.shields.io/badge/Kafka -444444?logo=apachekafka&style=flat-square&logoColor='987E2B'" height="30">
+   <img src="https://img.shields.io/badge/Dask -444444?logo=dask&style=flat-square&logoColor='987E2B'" height="30">
+   <img src="https://img.shields.io/badge/MongoDB -444444?logo=mongodb&style=flat-square&logoColor='987E2B'" height="30">
+   <img src="https://img.shields.io/badge/OpenCV -444444?logo=opencv&style=flat-square&logoColor='987E2B'" height="30">
+   <img src="https://img.shields.io/badge/Tableau -444444?logo=tableau&style=flat-square&logoColor='987E2B'" height="30">
 </div>
 
 <br> 
