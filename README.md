@@ -2,7 +2,7 @@
 
 ## About Me
 
-<p style="font-size: 1.5em;"> I'm a junior computing engineer from Brittany,
+<p style="font-size: 1.5em;"> I'm a data science engineer from Brittany,
 France. I'm motivated by bringing value to the world
 through innovative and disruptive technology. I
 consider myself a creative force and relish the
