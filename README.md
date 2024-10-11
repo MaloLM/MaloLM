@@ -1,4 +1,4 @@
-<h1> Hi there <img src='./assets/hello.gif' width="40px"> <br> I am Malo Le Mestre  </h1>
+<h1> Hi there <img src='./assets/hello.gif' width="40px"> </h1>
 
 ## About Me
 
