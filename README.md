@@ -33,7 +33,7 @@ As a computer engineer specializing in data science, with four years of hands-on
 <p>
    <div>
       &nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/-Python wide skills-blue?logo=python&logoColor=yellow&style=flat-square" height="30">
+      <img src="https://img.shields.io/badge/-Python wide skills-blue?logo=python&logoColor=yellow&style=flat-square" height="25">
       <img src="https://img.shields.io/badge/Deep Learning-31b01a?style=flat-square" height="25">
       <img src="https://img.shields.io/badge/Machine Learning-31b01a?style=flat-square" height="25">
       <img src="https://img.shields.io/badge/Optimization-31b01a?style=flat-square" height="25">
