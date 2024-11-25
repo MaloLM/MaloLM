@@ -47,7 +47,7 @@ As a computer engineer specializing in data science, with four years of hands-on
 
 <hr>
 
-<h3> Data Science / Machine learning </h3>
+<h3> Data Science </h3>
 
 <p>
    <div>
