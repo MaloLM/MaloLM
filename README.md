@@ -41,8 +41,8 @@ As a computer engineer specializing in data science, with four years of hands-on
 
    <div>
       &nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/pytorch-343434?logo=pytorch&logoColor=9e3a26&style=flat-square" height="25">
-      <img src="https://img.shields.io/badge/tensorflow-orange?logo=tensorflow&logoColor=white&style=flat-square" height="25">
+      <img src="https://img.shields.io/badge/pytorch-343434?logo=PyTorch&logoColor=9e3a26&style=flat-square" height="25">
+      <img src="https://img.shields.io/badge/Tensorflow-orange?logo=tensorflow&logoColor=white&style=flat-square" height="25">
       <img src="https://img.shields.io/badge/sklearn-blue?logo=scikitlearn&style=flat-square" height="25">
       <img src="https://img.shields.io/badge/Ultralytics-blue?style=flat-square" height="25">
    </div>
