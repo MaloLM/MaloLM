@@ -87,3 +87,13 @@ icons and labels:
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaloLM&layout=compact&theme=vision-friendly-dark" alt="GitHub Streak" height="150"/>
    <img src="https://streak-stats.demolab.com?user=MaloLM&theme=dark&card_width=200&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Contributions" height="150"/>
 </div>
+
+
+----------
+
+   <div>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Deep Learning-31b01a?style=flat-square" height="15">
+      <img src="https://img.shields.io/badge/Machine Learning-31b01a?style=flat-square" height="15">
+      <img src="https://img.shields.io/badge/Optimization-31b01a?style=flat-square" height="15">
+   </div>
