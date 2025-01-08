@@ -24,7 +24,7 @@
 
 <p style="font-size: 3em;">
 
-As a computer engineer specializing in data science, with four years of hands-on experience, my motivation lies in bringing value to the world through innovative and disruptive technology. A creative force, I relish opportunities to raise the bar, especially when facing new and exciting challenges.
+As a computer engineer specializing in machine learning, with four years of hands-on experience, my motivation lies in bringing value to the world through innovative and disruptive technology. A creative force, I relish opportunities to raise the bar, especially when facing new and exciting challenges.
 
 </p>
 
