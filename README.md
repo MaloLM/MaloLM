@@ -8,9 +8,6 @@
   <a href="https://medium.com/@malo.lm/">
     <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/>
    </a>
-  <a href="https://www.linkedin.com/in/malo-le-mestre/">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email Badge"/>
-  </a>
 </div>
 
 <div id="header" align="center">
@@ -84,3 +81,5 @@ As a computer engineer specializing in machine learning, with four years of hand
       <img src="https://img.shields.io/badge/Jetson-333333?logo=nvidia&logoColor=00ff00&style=flat-square" height="25">
    </div>
 </p>
+
+It's quite outdated tho... anyway, today I can do so much more, so will be tomorrow !
