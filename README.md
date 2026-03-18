@@ -1,6 +1,6 @@
 <div id="badges" align="center">
   <a href="https://portfolio.dopee.io">
-    <img src="https://img.shields.io/badge/Portefolio-green?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Portefolio-green?style=for-the-badge" alt="Portfolio Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/malo-le-mestre/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
