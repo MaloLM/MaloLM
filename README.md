@@ -23,7 +23,7 @@
 
 <p style="font-size: 3em;">
 
-As a computer engineer specializing in machine learning, with four years of hands-on experience, my motivation lies in bringing value to the world through innovative and disruptive technology. A creative force, I relish opportunities to raise the bar, especially when facing new and exciting challenges.
+I’m a computer science engineer specialized in artificial intelligence. I’m interested in how intelligence can be engineered into reliable systems that work under real-world constraints. Working in demanding environments, including General Electric, taught me to turn complexity into production systems that deliver measurable results. My long-term goal is to build a company that creates technology with meaningful, lasting impact.
 
 </p>
 
